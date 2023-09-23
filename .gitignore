@@ -1,0 +1,5 @@
+# ignore compiled files
+*IntLib
+
+# ignore History directory
+ History/
