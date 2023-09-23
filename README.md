@@ -1,32 +1,48 @@
 # Altium Components Library
 
-![Logo de la Librería](url_del_logo.png)
+![Library Logo](Images/altium-designer.jpg)
 
-La **Altium Components Library** es una colección de componentes electrónicos diseñados para su uso en Altium Designer. Esta librería está destinada a simplificar el proceso de diseño de circuitos y placas de circuito impreso (PCB) para tus proyectos.
+The **Altium Components Library** is my personal collection of electronic components designed for use in Altium Designer and should not be taken as a reliable source. 
+<!-- This library is intended to ...-->
 
-## Contenido
+## Contents
 
-- [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [License](#license)
 
-## Características
+## Features
+- Wow such good practices
+<!--
+- A wide selection of electronic components, including resistors, capacitors, microcontrollers, etc.
+- Detailed documentation for each component, including datasheets and usage examples.
+- Compatibility with specific versions of Altium Designer.
+-->
 
-- Amplia selección de componentes electrónicos, incluidos resistores, capacitores, microcontroladores, etc.
-- Documentación detallada sobre cada componente, incluidas hojas de datos y ejemplos de uso.
-- Compatibilidad con versiones específicas de Altium Designer.
+## Requirements
 
-## Requisitos
+- Altium Designer (version [23.8.1] or greater)
+<!--
+- Other specific requirements for your library (if any)
+-->
 
-- Altium Designer (versión [X.X.X](enlace_a_la_descarga))
-- Otros requisitos específicos de tu librería (si los hay)
+## Installation
 
-## Instalación
+1. Clone this repository on your local system
 
-1. Clona este repositorio en tu sistema local:
+2. Ta pelao
 
-   ```shell
-   git clone https://github.com/tu-usuario/altium-components-library.git
+## Usage 
+
+1. Open the .LibPkg with Altium Designer
+
+2. Compile the .LibPkg and generate the .IntLib
+
+3. Do hardware stuff
+
+## Contribution
+
+If you wish to contribute to the Altium Components Library, gracias pero no gracias, toy ocupao.
